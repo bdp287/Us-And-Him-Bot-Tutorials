@@ -25,4 +25,4 @@ if(cmd === `Bot-prefix`){
 }
 });
 
-bot.login(Botconfig.token);
+bot.login(Botconfig.token); 
